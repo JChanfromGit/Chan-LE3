@@ -1,0 +1,12 @@
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Files\VSC\LE3\ChanLE3\BlogDataLibrary\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
